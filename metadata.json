@@ -1,0 +1,6 @@
+{
+  "name": "Savelev TV",
+  "description": "Онлайн-кинотеатр проектов MINDHUNTER Кости Савельева (создатели Филипп и Арсений) с историей просмотров, лайками, описанием и офлайн-режимом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
